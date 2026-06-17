@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+jira
+pydantic
+pydantic-settings
+python-dotenv
